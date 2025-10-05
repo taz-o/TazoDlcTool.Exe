@@ -12,8 +12,6 @@
 
 **TazoDlcTool** is a simple yet powerful tool designed to quickly and flawlessly generate **DLC (Downloadable Content)** packs for Grand Theft Auto V. With its intuitive interface and automated processes, you can easily turn your modifications (vehicles, maps) into fully functional DLC packs.
 
-!(https://i.imgur.com/your-image-url.png) ## ✨ Key Features
-
 * **Multi-Language Interface:** The application is fully translated into three languages:
     * 🇬🇪 Georgian
     * 🇬🇧 English
@@ -71,8 +69,6 @@ Created by: **Tazo**
 # TazoDlcTool 🚗🗺️ (Русский)
 
 **TazoDlcTool** — это простой и мощный инструмент, предназначенный для быстрого и безошибочного создания пакетов **DLC (загружаемого контента)** для Grand Theft Auto V. Благодаря интуитивно понятному интерфейсу и автоматизированным процессам вы можете легко превратить ваши модификации (машины, карты) в полнофункциональные DLC-пакеты.
-
-!(https://i.imgur.com/your-image-url.png) ## ✨ Основные возможности
 
 * **Многоязычный интерфейс:** Приложение полностью переведено на три языка:
     * 🇬🇪 Грузинский
@@ -132,8 +128,6 @@ Created by: **Tazo**
 
 **TazoDlcTool** არის მარტივი და მძლავრი ხელსაწყო, რომელიც შექმნილია Grand Theft Auto V-სთვის **DLC (Downloadable Content)** პაკეტების სწრაფად და უშეცდომოდ გენერირებისთვის. მისი ინტუიციური ინტერფეისის და ავტომატიზებული პროცესების დახმარებით, თქვენ შეგიძლიათ მარტივად გადააქციოთ თქვენი მოდიფიკაციები (მანქანები, რუკები) სრულფასოვან DLC პაკეტად.
 
-!(https://i.imgur.com/your-image-url.png) ## ✨ ძირითადი შესაძლებლობები
-
 * **მრავალენოვანი ინტერფეისი:** პროგრამა სრულად არის ნათარგმნი სამ ენაზე:
     * 🇬🇪 ქართული
     * 🇬🇧 ინგლისური
@@ -183,3 +177,4 @@ DLC პაკეტის შექმნა სულ რამდენიმ�
 ## ❤️ ავტორი
 
 პროგრამის ავტორი: **Tazo**
+
